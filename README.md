@@ -22,5 +22,4 @@
   
 </div>
 
-![Snake animation](https://github.com/veronicarubim/veronicarubim/blob/dist/github-contribution-grid-snake.svg)
 
