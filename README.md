@@ -22,5 +22,5 @@
   
 </div>
 
-![Snake animation](https://github.com/veronicarubim/veronicarubim/blob/main/.github/workflows/main.yml)
+![Snake animation](https://github.com/veronicarubim/veronicarubim/blob/dist/github-contribution-grid-snake.svg)
 
