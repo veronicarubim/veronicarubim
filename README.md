@@ -5,7 +5,7 @@
     
 ## Sobre mim:
     
-  Tenho 25 anos, nasci e cresci em São Paulo, sou formada em Ciências Biológicas e Mestre em Botânica pela Universidade Estadual Paulista (UNESP). Há cerca de 7 meses iniciei minha jornada como programadora para seguir meu sonho de poder desenvolver sites e aplicativos. 
+  Tenho 25 anos, nasci e cresci em São Paulo, sou formada em Ciências Biológicas e Mestre em Botânica pela Universidade Estadual Paulista (UNESP). Há cerca de 8 meses iniciei minha jornada como programadora. 
     
   Fora do computador costumo passar meu tempo livre desenhando, tocando violão e jogando. Além disso, sou viciada em leitura e acredito que sempre podemos aprender mais um pouquinho!
   
