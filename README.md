@@ -1,11 +1,11 @@
 # Seja bem vindo ao meu perfil!
 
-<div align="center">
+<div>
   <a href="https://github.com/veronicarubim">
     
-## Sobre mim:
+### Sobre mim:
     
-  Tenho 25 anos, nasci e cresci em São Paulo, sou formada em Ciências Biológicas e Mestre em Botânica pela Universidade Estadual Paulista (UNESP). Há cerca de 1 ano iniciei minha jornada como programadora. 
+  Olá! Meu nome é Verônica, moro em São Paulo, sou desenvolvedora FullStack há quase 2 anos. Sou formada em Ciências Biológicas e Mestre em Botânica pela Universidade Estadual Paulista (UNESP).
     
   Fora do computador costumo passar meu tempo livre desenhando, tocando violão e jogando. Além disso, sou viciada em leitura e acredito que sempre podemos aprender mais um pouquinho!
   
