@@ -5,7 +5,7 @@
 <h3>:star: A short presentation</h3>
 
 <p>
-  :mortar_board: I am a full stack web developer for almost 2 yers, I started my journey in a full-time bootcamp. Before my path in tecnology, I graduated as a marine biology and got a master's degree in coastal plants from São Paulo State University (UNESP).
+  :mortar_board: I am a full stack web developer for almost 2 years, I started my journey in a full-time bootcamp. Before my path in tecnology, I graduated as a marine biologist and got a master's degree in coastal plants from São Paulo State University (UNESP).
 </p>
 
 <p>:pushpin: Currently I'm based in São Paulo - SP, but you can often find me in São José do Rio Preto or Praia Grande.</p>
