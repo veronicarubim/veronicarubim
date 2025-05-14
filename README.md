@@ -8,14 +8,15 @@
   :mortar_board: I am a full stack web developer for almost 2 years, I started my journey in a full-time bootcamp. Before my path in tecnology, I graduated as a marine biologist and got a master's degree in coastal plants from São Paulo State University (UNESP).
 </p>
 
-<p>:pushpin: Currently I'm based in São Paulo - SP, but you can often find me in São José do Rio Preto or Praia Grande.</p>
+<p>:pushpin: Currently I'm based in Campinas - SP, but you can often find me in São Paulo or Praia Grande.</p>
 
 <p>:art: In my off screen hours, I'm probably painting, sketching, writing, playing songs on guitar or reading fantasy books!</p>
 
 <hr></hr>
 <h3>:star: Working experiences</h3>
 
-<p>🔹 Full stack developer at Field Control - aug 2023 - now</p>
+<p>🔹 Full stack developer at Artefact - apr 2025 - now</p>
+<p>🔹 Full stack developer at Field Control - aug 2023 - apr 2025</p>
 <p>🔹 Junior frontend developer at Estoa - mar 2023 - aug 2023</p>
 <p>🔹 Professional researcher at Conselho Nacional de Desenvolvimento Científico e Tecnológico - mar 2020 - may 2022</p>
 </div>
