@@ -8,8 +8,6 @@
   :mortar_board: I am a full stack web developer for almost 2 years, I started my journey in a full-time bootcamp. Before my path in tecnology, I graduated as a marine biologist and got a master's degree in coastal plants from São Paulo State University (UNESP).
 </p>
 
-<p>:pushpin: Currently I'm based in Campinas - SP, but you can often find me in São Paulo or Praia Grande.</p>
-
 <p>:art: In my off screen hours, I'm probably painting, sketching, writing, playing songs on guitar or reading fantasy books!</p>
 
 <hr></hr>
